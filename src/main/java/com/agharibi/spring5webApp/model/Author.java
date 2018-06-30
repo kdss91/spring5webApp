@@ -71,6 +71,7 @@ public class Author {
         return Objects.equals(id, author.id);
     }
 
+    
     @Override
     public int hashCode() {
 
