@@ -70,7 +70,6 @@ public class Author {
         Author author = (Author) o;
         return Objects.equals(id, author.id);
     }
-
     
     @Override
     public int hashCode() {
