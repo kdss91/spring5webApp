@@ -1,4 +1,4 @@
-package com.agharibi.spring5webApp;
+package com.spring5webApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

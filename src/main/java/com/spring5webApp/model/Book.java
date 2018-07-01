@@ -1,4 +1,4 @@
-package com.agharibi.spring5webApp.model;
+package com.spring5webApp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;

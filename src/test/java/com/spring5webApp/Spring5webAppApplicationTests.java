@@ -1,4 +1,4 @@
-package com.agharibi.spring5webApp;
+package com.spring5webApp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
